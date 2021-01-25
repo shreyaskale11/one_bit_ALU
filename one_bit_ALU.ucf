@@ -1,0 +1,10 @@
+
+net "a" LOC =  P21;
+net "b" LOC = P22;
+net "cin" LOC = P17;
+net "carry" LOC = P32;
+net "o" LOC =  P33;
+net "sel[0]" LOC =  P1;
+net "sel[1]" LOC = P2;
+
+

@@ -1,0 +1,14 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Jan 26 00:20:24 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "cin" LOCATE = SITE "P17" LEVEL 1;
+COMP "o" LOCATE = SITE "P33" LEVEL 1;
+COMP "carry" LOCATE = SITE "P32" LEVEL 1;
+COMP "sel<0>" LOCATE = SITE "P1" LEVEL 1;
+COMP "sel<1>" LOCATE = SITE "P2" LEVEL 1;
+COMP "a" LOCATE = SITE "P21" LEVEL 1;
+COMP "b" LOCATE = SITE "P22" LEVEL 1;
+SCHEMATIC END;
+
